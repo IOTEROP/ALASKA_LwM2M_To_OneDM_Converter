@@ -1,0 +1,13 @@
+{
+  "operation": "INSERT",
+  "templates": [
+    {
+      "templateId": "MyTemplateTree",
+      "name": "MyTemplateTree",
+      "mappings": {
+        "things": [
+        ]
+      }
+    }
+  ]
+}
